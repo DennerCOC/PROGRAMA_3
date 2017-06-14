@@ -1,0 +1,13 @@
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\bin\Debug\PROGRAMA 3.exe.config
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA_3.Form1.resources
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA_3.Properties.Resources.resources
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.csproj.GenerateResource.Cache
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\bin\Debug\PROGRAMA 3.exe
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\bin\Debug\PROGRAMA 3.pdb
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.exe
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.pdb
+E:\Executaveis liberados\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA_3.Alimentos.resources
+D:\C#\AV2\PROGRAMA 3\PROGRAMA 3\bin\Debug\PROGRAMA 3.exe.config
+D:\C#\AV2\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.exe
+D:\C#\AV2\PROGRAMA 3\PROGRAMA 3\obj\Debug\PROGRAMA 3.pdb
